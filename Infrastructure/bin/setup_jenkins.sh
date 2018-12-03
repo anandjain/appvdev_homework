@@ -54,7 +54,7 @@ items:
     source:
       type: "Git"
       git:
-        uri: "https://github.com/cfoskin/appvdev_homework.git"
+        uri: "https://github.com/anandjain/appvdev_homework.git"
     strategy:
       type: "JenkinsPipeline"
       jenkinsPipelineStrategy:
@@ -72,7 +72,7 @@ items:
     source:
       type: "Git"
       git:
-        uri: "https://github.com/cfoskin/appvdev_homework.git"
+        uri: "https://github.com/anandjain/appvdev_homework.git"
     strategy:
       type: "JenkinsPipeline"
       jenkinsPipelineStrategy:
@@ -90,7 +90,7 @@ items:
     source:
       type: "Git"
       git:
-        uri: "https://github.com/cfoskin/appvdev_homework.git"
+        uri: "https://github.com/anandjain/appvdev_homework.git"
     strategy:
       type: "JenkinsPipeline"
       jenkinsPipelineStrategy:
